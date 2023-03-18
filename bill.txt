@@ -1,0 +1,22 @@
+Order
+
+2022-05-20T07:48:44.995962300
+
+Composite product -> Title: composite1 Price: 191 --> composed of: (
+	Title: "Brioche ""Bread Pudding"" with Caramelized Apples " Rating: 5.0 Calories: 405 Protein: 4 Fat:21 Sodium:51 Price: 84
+	Title: "Citrus ""Jell-O"" with Honey and Mint " Rating: 3.75 Calories: 153 Protein: 4 Fat:0 Sodium:6 Price: 60
+	Title: "Avocado ""Pesto"" " Rating: 3.125 Calories: 354 Protein: 3 Fat:36 Sodium:37 Price: 47
+)
+
+Composite product -> Title: composite2 Price: 207 --> composed of: (
+	Composite product -> Title: composite1 Price: 191 --> composed of: (
+	Title: "Brioche ""Bread Pudding"" with Caramelized Apples " Rating: 5.0 Calories: 405 Protein: 4 Fat:21 Sodium:51 Price: 84
+	Title: "Citrus ""Jell-O"" with Honey and Mint " Rating: 3.75 Calories: 153 Protein: 4 Fat:0 Sodium:6 Price: 60
+	Title: "Avocado ""Pesto"" " Rating: 3.125 Calories: 354 Protein: 3 Fat:36 Sodium:37 Price: 47
+)
+
+	Title: Zucchini-Pecan Cake with Cream Cheese Frosting  Rating: 4.375 Calories: 453 Protein: 6 Fat:31 Sodium:315 Price: 16
+)
+
+Title: base Rating: 4.0 Calories: 500 Protein: 25 Fat:12 Sodium:12 Price: 40
+Total: 438
